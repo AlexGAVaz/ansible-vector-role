@@ -1,0 +1,4 @@
+---
+vector_version: "0.21.1"
+vector_os_arch: "x86_64"
+clickhouse_ip: 158.160.37.34
